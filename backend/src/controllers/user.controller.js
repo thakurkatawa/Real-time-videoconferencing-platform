@@ -98,5 +98,7 @@ const getUserHistory = async (req, res) => {
     }
 };
 
+
+
 export { login, register, addToHistory, getUserHistory };
 
