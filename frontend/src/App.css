@@ -70,7 +70,7 @@
 .meetContainer {
   display: flex;
   padding-inline: 20px;
-  height: 80vh;
+  height: 79vh;
   gap: 9vw;
   justify-content: center;
 }
