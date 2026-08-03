@@ -35,7 +35,7 @@ const connectionDb = await mongoose.connect(
         });
 
     } catch (error) {
-        console.error("❌ MongoDB Connection is Error:", error.message);
+        console.error("❌ MongoDB Connection Error:", error.message);
         process.exit(1);
     }
 };
