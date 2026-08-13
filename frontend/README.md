@@ -68,3 +68,52 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Real-Time Video Conferencing Platform
+
+A real-time video conferencing web application that allows users to communicate through video and audio calls.
+
+## 🚀 Features
+
+- 🎥 Real-time video calling
+- 🎙️ Audio communication
+- 💬 Real-time chat
+- 👥 Multiple participants
+- 🔗 Meeting room support
+- 📱 Responsive user interface
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Real-Time Communication
+- WebRTC
+- Socket.IO
+
+## 📂 Project Structure
+
+```text
+Real-Time Video Conferencing Platform/
+│
+├── client/
+│   ├── src/
+│   └── package.json
+│
+├── server/
+│   ├── src/
+│   └── package.json
+│
+├── README.md
+└── package.json
